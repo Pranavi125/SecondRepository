@@ -27,6 +27,8 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
+  <packaging>war</packaging>
+
 
   <dependencies>
     <dependency>
